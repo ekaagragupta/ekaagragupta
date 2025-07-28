@@ -1,5 +1,16 @@
 # 💫 About Me:
- <br><br>🛜I'm currently working on Full stack Web development <br>👯 l'm looking to collaborate on AI-Ml projects <br>🤝I'm currently learning Develops<br>
+ <br>🛜I'm currently working on Full stack Web development <br>👯 l'm looking to collaborate on AI-Ml projects <br>🤝I'm currently learning Develops<br>
+ 
+## 🏆 Achievements
+
+<p align="center">
+  <!-- Existing shark badge -->
+  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" alt="Badge 1" width="120"/>
+  
+  <!-- GSSoC badge -->
+  <img  src="https://camo.githubusercontent.com/69ea65063154c89628074f425ae8f2ba5d53f61eaff769f0f26b311fd1afaf13/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d766965772669643d312d423376613362616c48593775706f4e336e684e456e6a317846687a62637372" alt="GSSOC Pro Contributor" width="120"/>
+
+</p>
 
 
 ## 🌐 Socials:

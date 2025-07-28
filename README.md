@@ -1,25 +1,58 @@
-## Hi there 👋
-## 🏅 Achievements
+<h1 align="center">Hi there 👋, I'm Ekaagra Gupta</h1>
+<h3 align="center">B.Tech CSE (AI & ML) | Open Source Enthusiast | 2nd Year Student</h3>
 
-### 🌟 GSSOC 2025 Contributor
+---
+
+### 🚀 About Me
+
+- 👨‍💻 I’m currently exploring the world of **Artificial Intelligence** and **Machine Learning**
+- 🌱 Actively learning about:
+  - Data Structures & Algorithms
+  - ML Libraries (NumPy, Pandas, scikit-learn)
+  - Web Development (HTML/CSS/JS + React)
+- 🔭 I’m contributing to **Open Source Projects**, currently part of **GSSoC 2025**
+- 💡 Always excited to collaborate on innovative tech projects and hackathons
+- 🧠 Fun fact: I believe code + coffee = creativity ☕💻
+
+---
+
+### 🏅 Achievements
+
+#### 🌟 GSSOC 2025 Contributor
 ![GSSOC Badge](https://raw.githubusercontent.com/GirlScriptSummerOfCode/discord-bot/main/assets/pro-contributor-badge.png)
 
-- Contributed to GSSOC FAQ Discord Bot Repository
+- Contributed to the **GSSOC FAQ Discord Bot Repository**
 - Earned: **Pro Contributor Badge**
-- Unlocked: **Dev Slayer** title 🚀
+- Unlocked: **Dev Slayer** achievement 🚀
 
+---
 
-<!--
-**ekaagragupta/ekaagragupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Languages & Tools
 
-Here are some ideas to get you started:
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📫 Let’s Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/ekaagragupta)  
+- 💻 [GitHub](https://github.com/ekaagragupta)  
+- 📬 Email: ekaagragupta@gmail.com
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ekaagragupta&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ekaagragupta&theme=tokyonight" width="48%" />
+</div>
+

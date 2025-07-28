@@ -1,5 +1,6 @@
 # 💫 About Me:
- <br>🛜I'm currently working on Full stack Web development <br>👯 l'm looking to collaborate on AI-Ml projects <br>🤝I'm currently learning Develops<br>
+ <br>👯 l'm looking to collaborate on AI-Ml projects <br>🤝I'm currently learning Develops<br><br>🛜📄 [View My Resume](resume_eg.pdf)
+
  
 ## 🏆 Achievements
 

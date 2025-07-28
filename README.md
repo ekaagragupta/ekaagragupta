@@ -1,4 +1,13 @@
 ## Hi there 👋
+## 🏅 Achievements
+
+### 🌟 GSSOC 2025 Contributor
+![GSSOC Badge](https://raw.githubusercontent.com/GirlScriptSummerOfCode/discord-bot/main/assets/pro-contributor-badge.png)
+
+- Contributed to GSSOC FAQ Discord Bot Repository
+- Earned: **Pro Contributor Badge**
+- Unlocked: **Dev Slayer** title 🚀
+
 
 <!--
 **ekaagragupta/ekaagragupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

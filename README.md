@@ -1,5 +1,9 @@
+<h1 align="center">Meet Ekaagra Gupta</h1>
+<h3 align="center">Open Source Enthusiast | CSE Major | Specialized in AI ML | Sophomore at MUJ’28 </h3>
+
+
 # 💫 About Me:
- <br>👯 l'm looking to collaborate on AI-ML projects <br>🤝I'm currently learning Develops<br><br>📄 [View My Resume](resume_eg.pdf)
+ 👯 l'm looking to collaborate on AI-ML projects <br>🤝I'm currently learning Develops<br><br>📄 [View My Resume](resume_eg.pdf)
 
  
 ## 🏆 Achievements

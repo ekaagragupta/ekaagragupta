@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Ekaagra Gupta</h1>
+<h1 align="center">Meet Ekaagra Gupta</h1>
 <h3 align="center">B.Tech CSE (AI & ML) | Open Source Enthusiast | 2nd Year Student</h3>
 
 ---

@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
- 👯 l'm looking to collaborate on AI-ML projects <br>🤝I'm currently learning DevOps<br>
+ 👯 l'm looking to collaborate on AI-ML projects <br>🤝I'm currently learning machine learning<br>
 
  
 ## 🏆 Achievements

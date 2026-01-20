@@ -1,3 +1,6 @@
+
+
+
 <h1 align="center">Hi, I'm Ekaagra Gupta </h1>
 <h3 align="center">⟡ ⋆ why code works, not just syntax ⋆ ⟡</h3>
 <p align="center">

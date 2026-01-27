@@ -25,7 +25,7 @@ I work on **scalable software + ML systems**, combining **core CS fundamentals**
 - 🔭 **Currently working on:** LLM-powered agentic ML systems with **RAG**
 - 🤝 **Open to collaborate on:** Open Source + ML projects + developer tools
 - 👨‍💻 **Leadership:** Technical Co-Lead at **Google Developer Group**
-- ⚡ **Fun fact:** I’m into **embedded systems** (it’s a personality)
+- ⚡ **Fun fact:** I’m into **embedded systems** (not its personality)
 
 ---
 

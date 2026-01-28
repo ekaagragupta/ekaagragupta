@@ -30,7 +30,7 @@ I work on **scalable software + ML systems**, combining **core CS fundamentals**
 ---
 
 
-## 🌲 Skill Tree
+##  Skill Set
 
 | Category | Tech Stack |
 |----------|------------|
@@ -41,7 +41,4 @@ I work on **scalable software + ML systems**, combining **core CS fundamentals**
 | **Tools** | ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
 
 ---
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ekaagragupta&icon=0&color=0" />
-</p>
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=ekaagragupta)

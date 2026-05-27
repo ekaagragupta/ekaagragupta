@@ -28,7 +28,7 @@ I work on **scalable software + ML systems**, combining **core CS fundamentals**
 
 - 🔭 **Currently working on:** LLM-powered agentic ML systems with **RAG**
 - 🤝 **Open to collaborate on:** Open Source + ML projects + developer tools
-- 👨‍💻 **Experience:** Quantum computing Research intern @ NIT jaipur
+- 👨‍💻 **Experience:** Project intern @ MNIT
 - ⚡ **Fun fact:** I’m into **embedded systems** (not its personality)
 
 ---

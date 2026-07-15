@@ -26,9 +26,9 @@
 I’m a **Computer Science (AI/ML)** undergraduate at **Manipal University Jaipur (Class of 2028)**.  
 I work on **scalable software + ML systems**, combining **core CS fundamentals** with **data-driven modeling** to build practical, deployable solutions.
 
--  **Currently working on:** LLM-powered agentic ML systems with **RAG**
+-  **Currently working on:** agentic ai probs w full stack dev
 -  **Open to collaborate on:** Open Source + ML projects + developer tools
--  **Experience:** AI intern @ MNIT
+-  **Experience:** AI intern @ MNIT , ex-intern @coreGen , ex-intern @ ethify.AI
 - **Fun fact:** I’m into **embedded systems** (not its personality)
 ---
 

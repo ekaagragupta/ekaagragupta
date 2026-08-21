@@ -24,7 +24,7 @@ I’m a **Computer Science (AI/ML)** undergraduate at **Manipal University Jaipu
 I work on **scalable AI + ML systems**, combining **core CS fundamentals** with **data-driven modeling** to build practical, deployable solutions.
 
 -  **Currently working on:** agentic ai probs w full stack dev( vibe coded lmao cause the market is down already)
--  **Open to collaborate on:** Open Source + ML projects + developer tools
+-  **Open to collaborate on:** Open Source + ML projects + AI - agentic + RAG based fab
 -  **Experience:** AI intern @ MNIT , ex-intern @coreGen , ex-intern @ ethify.AI
 - **Fun fact:** I’m into **embedded systems** (not its personality)
 ---

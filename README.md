@@ -13,9 +13,6 @@
   <a href="https://instagram.com/ekaagragupta">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://x.com/EkaagraG14217">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
   
 </p>
 
@@ -24,9 +21,9 @@
 ## 👾 About Me
 
 I’m a **Computer Science (AI/ML)** undergraduate at **Manipal University Jaipur (Class of 2028)**.  
-I work on **scalable software + ML systems**, combining **core CS fundamentals** with **data-driven modeling** to build practical, deployable solutions.
+I work on **scalable AI + ML systems**, combining **core CS fundamentals** with **data-driven modeling** to build practical, deployable solutions.
 
--  **Currently working on:** agentic ai probs w full stack dev
+-  **Currently working on:** agentic ai probs w full stack dev( vibe coded lmao cause the market is down already)
 -  **Open to collaborate on:** Open Source + ML projects + developer tools
 -  **Experience:** AI intern @ MNIT , ex-intern @coreGen , ex-intern @ ethify.AI
 - **Fun fact:** I’m into **embedded systems** (not its personality)
